@@ -29,7 +29,7 @@ This repository contains projects focused on:
 |----------|-------------|------------|
 | 📈 **Machine Learning Regression** | Predicts continuous values using regression algorithms with performance evaluation. | Linear Regression |
 | 🌳 **Decision Tree Classification** | Classification model built using Decision Tree with performance evaluation. | Decision Tree Classifier |
-| 🤖 **Machine Learning Classification Project ** | Complete classification pipeline including preprocessing, EDA, feature scaling, model building, comparison, and prediction. | Logistic Regression, Decision Tree, Random Forest, SVM, KNN |
+| 🤖 **Machine Learning Classification Project** | Complete classification pipeline including preprocessing, EDA, feature scaling, model building, comparison, and prediction. | Logistic Regression, Decision Tree, Random Forest, SVM, KNN |
 | 📊 **AI-Based Sales Forecasting Dashboard** | Interactive dashboard for forecasting sales and business insights using Streamlit. | Linear Regression |
 | 📑 **Milestone Machine Learning Project** | End-to-end Machine Learning workflow from data preprocessing to prediction and evaluation. | Multiple ML Techniques |
 
